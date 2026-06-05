@@ -1,0 +1,6 @@
+{
+  "name": "Resume Evaluation & Matcher Desk",
+  "description": "Expert HR recruiter and resume screening specialist app utilizing Groq models to analyze and match student resumes to optional job descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
